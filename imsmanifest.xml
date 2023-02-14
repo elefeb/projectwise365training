@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5lMVTHl2dn8" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">training</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="training_ORG">
+    <organization identifier="training_ORG">
+      <title>training</title>
+      <item identifier="training_SCO" isvisible="true" identifierref="__5lMVTHl2dn8_RES">
+        <title>training</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5lMVTHl2dn8_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5jBpm3ZQ5pj.png" />
+      <file href="story_content/video_5ozRjDFNYQ0_18_80_962x510.mp4" />
+      <file href="mobile/poster_5v7SYIMxEZT_video_5ozRjDFNYQ0_18_80_962x510.jpg" />
+      <file href="story_content/video_6F3SDYwMjkG_18_80_944x512.mp4" />
+      <file href="mobile/poster_66V6RC0YB0Q_video_6F3SDYwMjkG_18_80_944x512.jpg" />
+      <file href="story_content/video_5v8nniVQNBi_18_80_944x512.mp4" />
+      <file href="mobile/poster_6I4Btv3XGsn_video_5v8nniVQNBi_18_80_944x512.jpg" />
+      <file href="story_content/video_6VvJPMcCLKn_18_80_944x512.mp4" />
+      <file href="mobile/poster_69QPIkG4C86_video_6VvJPMcCLKn_18_80_944x512.jpg" />
+      <file href="story_content/video_6gHfG9Obidl_18_80_944x512.mp4" />
+      <file href="mobile/poster_6WvZR6wfZ6R_video_6gHfG9Obidl_18_80_944x512.jpg" />
+      <file href="story_content/video_6lWwsB2gdr2_18_80_960x510.mp4" />
+      <file href="mobile/poster_6eYW8AkzO9U_video_6lWwsB2gdr2_18_80_960x510.jpg" />
+      <file href="story_content/video_5XI67iSetQA_18_80_960x510.mp4" />
+      <file href="mobile/poster_63PItDvkd4e_video_5XI67iSetQA_18_80_960x510.jpg" />
+      <file href="story_content/video_63SN8s7JSuX_18_80_960x510.mp4" />
+      <file href="mobile/poster_6mpbLnMNPPb_video_63SN8s7JSuX_18_80_960x510.jpg" />
+      <file href="story_content/video_5eSEmBSBRD0_18_80_960x510.mp4" />
+      <file href="mobile/poster_6bP8ZzSehRN_video_5eSEmBSBRD0_18_80_960x510.jpg" />
+      <file href="story_content/video_67Vx2U4DdEd_18_80_960x510.mp4" />
+      <file href="mobile/poster_6m63l3nxTi6_video_67Vx2U4DdEd_18_80_960x510.jpg" />
+      <file href="mobile/poster_5fRxn63h117_video_6lWwsB2gdr2_18_80_960x510.jpg" />
+      <file href="mobile/poster_6Y9w1jVq5qR_video_5XI67iSetQA_18_80_960x510.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gKDbKmouNc.js" />
+      <file href="html5/data/js/5ZfOFqXtq2D.js" />
+      <file href="html5/data/js/63KTLbAu8T9.js" />
+      <file href="html5/data/js/6CprNNouHth.js" />
+      <file href="html5/data/js/6F4yXW0dxa0.js" />
+      <file href="html5/data/js/6ibcU7Wglij.js" />
+      <file href="html5/data/js/6IfCQfptURL.js" />
+      <file href="html5/data/js/6kRDpTl93WC.js" />
+      <file href="html5/data/js/6mJXByXSKYQ.js" />
+      <file href="html5/data/js/6mTYnwpDog6.js" />
+      <file href="html5/data/js/6rD9zs5fnmQ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
